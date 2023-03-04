@@ -3,3 +3,5 @@ function sayHello(user) {
 }
 
 sayHello();
+
+// We have to assign a value to user

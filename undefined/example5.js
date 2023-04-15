@@ -4,3 +4,5 @@ let car = {
 };
 
 console.log(car.colour);
+
+// The car object does not have a key value for colour
